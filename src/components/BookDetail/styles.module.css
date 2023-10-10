@@ -1,0 +1,64 @@
+.wrapper{
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+}
+
+.author{
+    color: gray;
+    font-size: 24px;
+}
+
+.h1{
+    color: black;
+}
+.reviewList {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .reviewItem {
+    background-color: #f8f8f8;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .writeReviewButton {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .writeReviewButton:hover {
+    background-color: #0056b3;
+  }
+  
+  .reviewForm {
+    margin-top: 20px;
+  }
+  
+  .reviewInput {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .submitButton {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .submitButton:hover {
+    background-color: #0056b3;
+  }
